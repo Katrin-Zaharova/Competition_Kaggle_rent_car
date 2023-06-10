@@ -33,5 +33,5 @@
 
 <b>Формат файла с результатами</b></br>
 
-vin                     	sellingprice
-1g6dp567450124779          	4359.65
+vin                     	sellingprice</br>
+1g6dp567450124779          	4359.65</br>
